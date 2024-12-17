@@ -52,7 +52,7 @@ const slides = [
                  src={bg} alt='' />               
             </div>
             {/*overlay */}
-            <div className='absolute w-full h-full bg-black/60 
+            <div className='w-full h-full bg-black/60 
              text-center text-white uppercase py-80 fixed tracking-[6px] mb-5'>
                Just Enjoy and Relax 
                <div className='text-[32px] tracking-[2px] max-w-[920px] 
